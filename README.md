@@ -1,1 +1,5 @@
-![3d graph](https://github.com/yoshi389111/github-profile-3d-contrib/blob/main/profile-night-rainbow.svg)
+## 🌊 Contribution Wave
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PrathameshRSH26/PrathameshRSH26/main/wave.svg" />
+</p>
