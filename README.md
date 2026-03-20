@@ -1,9 +1,15 @@
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> 
-  <b>LinkedIn:</b> https://linkedin.com/in/prathameshshinde2604
+### > establishing connection...
+
+<p align="center">
+  <a href="https://linkedin.com/in/prathameshshinde2604">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:prathameshshinde912@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18"/> 
-  <b>Email:</b> prathameshshinde912@gmail.com
+<p align="center">
+  Open to collaborations and opportunities 🚀
 </p>
