@@ -1,3 +1,5 @@
+## 🌊 Contribution Wave
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PrathameshRSH26/PrathameshRSH26/main/wave.svg" />
+  <img src="https://raw.githubusercontent.com/prathamsh953-hub/prathamsh953-hub/main/wave.svg" />
 </p>
