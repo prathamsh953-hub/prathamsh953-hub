@@ -20,46 +20,57 @@ $ boot prathamesh-os
 
 ---
 
-## 🖥️ USER PROFILE
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Loading+User+Profile..." />
+</p>
 
 ```bash
-prathamesh@dev:~$ whoami
+┌──(prathamesh㉿dev-machine)-[~]
+└─$ cat user_profile.conf
 
-Name      : Prathamesh Shinde
-Role      : Frontend Developer
-Focus     : Clean, Responsive UI
-Education : B.E IT (Final Year)
-College   : Trinity College of Engineering and Research
+> Name        : Prathamesh Shinde
+> Role        : Frontend Developer
+> Focus       : Clean, Responsive UI
+> Education   : B.E IT (Final Year)
+> College     : Trinity College of Engineering and Research
 ```
 
 ---
 
-## 🧠 SYSTEM INFO
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Fetching+System+Info..." />
+</p>
 
 ```bash
-prathamesh@dev:~$ status
+┌──(system㉿core)-[/info]
+└─$ ./status.sh
 
-Learning  : MERN Stack
-Interest  : Real-world projects & collaboration
-Mode      : Continuous Improvement 🚀
+[+] Learning     : MERN Stack
+[+] Interest     : Real-world projects & collaboration
+[+] Mode         : Continuous Improvement 🚀
 ```
 
 ---
 
-## ⚙️ TECH STACK
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Loading+Tech+Stack..." />
+</p>
 
 ```bash
-prathamesh@dev:~$ load tech-stack
+┌──(config㉿stack)-[/usr/load]
+└─$ load --all
 
-Frontend  : HTML, CSS, JavaScript, React, Tailwind CSS
-Backend   : Node.js, Express
-Database  : MongoDB, MySQL, PostgreSQL
-Tools     : Git, Postman, Docker, Firebase
+[✔] Frontend  → HTML | CSS | JavaScript | React | Tailwind
+[✔] Backend   → Node.js | Express
+[✔] Database  → MongoDB | MySQL | PostgreSQL
+[✔] Tools     → Git | Postman | Docker | Firebase
 ```
 
 ---
 
-## 📊 SYSTEM ANALYTICS
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Analyzing+GitHub+Stats..." />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
@@ -72,23 +83,27 @@ Tools     : Git, Postman, Docker, Firebase
 
 ---
 
-## 📡 CONNECT
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Establishing+Connection..." />
+</p>
 
 ```bash
-prathamesh@dev:~$ connect
+┌──(network㉿root)-[/connect]
+└─$ ./init_connection
 
-LinkedIn : linkedin.com/in/prathameshshinde2604
-Email    : prathameshshinde912@gmail.com
+> LinkedIn : linkedin.com/in/prathameshshinde2604
+> Email    : prathameshshinde912@gmail.com
 
-Status   : AVAILABLE 🟢
+[STATUS] AVAILABLE 🟢
 ```
 
 ---
 
 ```bash
-$ exit
+┌──(system㉿exit)-[~]
+└─$ shutdown -status
 
-[ SYSTEM STABLE ]
-[ NO ERRORS ]
-[ READY TO BUILD 🚀 ]
+✔ All systems stable
+✔ No errors detected
+✔ Ready to build 🚀
 ```
