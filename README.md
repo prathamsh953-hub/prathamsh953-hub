@@ -2,51 +2,59 @@
   <img src="https://komarev.com/ghpvc/?username=PrathameshRSH26&label=SYSTEM%20ACCESS&color=00ff00&style=flat" />
 </p>
 
-```diff
-- [ BOOTING PRATHAMESH OS... ]
-+ Loading kernel............... OK
-+ Initializing modules......... OK
-+ Starting system.............. OK
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Booting+Prathamesh+OS...;Frontend+Developer;Learning+MERN+Stack;Building+Clean+UI" />
+</p>
 
-+ SYSTEM STATUS: ONLINE 🟢
+---
+
+```bash
+$ boot prathamesh-os
+
+[ OK ] Initializing system
+[ OK ] Loading modules
+[ OK ] Connecting database
+
+>> SYSTEM ONLINE 🟢
 ```
 
 ---
 
 ## 🖥️ USER PROFILE
 
-```diff
-+ C:\Users\Prathamesh> whoami
+```bash
+prathamesh@dev:~$ whoami
 
-+ Name        : Prathamesh Shinde
-+ Role        : Frontend Developer
-+ Focus       : Clean, Responsive UI
-+ Education   : B.E IT (Final Year)
-+ College     : Trinity College of Engineering and Research
+Name      : Prathamesh Shinde
+Role      : Frontend Developer
+Focus     : Clean, Responsive UI
+Education : B.E IT (Final Year)
+College   : Trinity College of Engineering and Research
 ```
 
 ---
 
-## 🧠 ABOUT SYSTEM
+## 🧠 SYSTEM INFO
 
-```diff
-+ C:\System> info
+```bash
+prathamesh@dev:~$ status
 
-+ Status      : Learning Full Stack (MERN)
-+ Interest    : Real-world projects & collaboration
+Learning  : MERN Stack
+Interest  : Real-world projects & collaboration
+Mode      : Continuous Improvement 🚀
 ```
 
 ---
 
-## ⚙️ TECH STACK LOADED
+## ⚙️ TECH STACK
 
-```diff
-+ C:\System\Config> load --tech-stack
+```bash
+prathamesh@dev:~$ load tech-stack
 
-+ Frontend   : HTML, CSS, JavaScript, React, Tailwind CSS
-+ Backend    : Node.js, Express
-+ Database   : MongoDB, MySQL, PostgreSQL
-+ Tools      : Git, Postman, Docker, Firebase
+Frontend  : HTML, CSS, JavaScript, React, Tailwind CSS
+Backend   : Node.js, Express
+Database  : MongoDB, MySQL, PostgreSQL
+Tools     : Git, Postman, Docker, Firebase
 ```
 
 ---
@@ -66,19 +74,21 @@
 
 ## 📡 CONNECT
 
-```diff
-+ C:\Network> connect --user prathamesh
+```bash
+prathamesh@dev:~$ connect
 
-+ LinkedIn : linkedin.com/in/prathameshshinde2604
-+ Email    : prathameshshinde912@gmail.com
+LinkedIn : linkedin.com/in/prathameshshinde2604
+Email    : prathameshshinde912@gmail.com
 
-+ STATUS   : AVAILABLE 🟢
+Status   : AVAILABLE 🟢
 ```
 
 ---
 
-```diff
-+ [ SYSTEM STABLE ]
-+ [ NO ERRORS DETECTED ]
-+ [ READY TO BUILD 🚀 ]
+```bash
+$ exit
+
+[ SYSTEM STABLE ]
+[ NO ERRORS ]
+[ READY TO BUILD 🚀 ]
 ```
