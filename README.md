@@ -8,69 +8,31 @@
 
 ---
 
-```bash
-$ boot prathamesh-os
+### > initializing profile...
 
-[ OK ] Initializing system
-[ OK ] Loading modules
-[ OK ] Connecting database
-
->> SYSTEM ONLINE 🟢
-```
+**Prathamesh Shinde**
+Frontend Developer focused on building clean, responsive user interfaces.
+Currently learning full-stack development with MERN.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Loading+User+Profile..." />
-</p>
+### > system info...
 
-```bash
-┌──(prathamesh㉿dev-machine)-[~]
-└─$ cat user_profile.conf
-
-> Name        : Prathamesh Shinde
-> Role        : Frontend Developer
-> Focus       : Clean, Responsive UI
-> Education   : B.E IT (Final Year)
-> College     : Trinity College of Engineering and Research
-```
+* 🎓 B.E IT (Final Year)
+* 🏫 Trinity College of Engineering and Research
+* 🚀 Interested in real-world projects & collaboration
 
 ---
 
+### > loading tech stack...
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Fetching+System+Info..." />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,docker,postgresql,mysql,git,postman" />
 </p>
-
-```bash
-┌──(system㉿core)-[/info]
-└─$ ./status.sh
-
-[+] Learning     : MERN Stack
-[+] Interest     : Real-world projects & collaboration
-[+] Mode         : Continuous Improvement 🚀
-```
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Loading+Tech+Stack..." />
-</p>
-
-```bash
-┌──(config㉿stack)-[/usr/load]
-└─$ load --all
-
-[✔] Frontend  → HTML | CSS | JavaScript | React | Tailwind
-[✔] Backend   → Node.js | Express
-[✔] Database  → MongoDB | MySQL | PostgreSQL
-[✔] Tools     → Git | Postman | Docker | Firebase
-```
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Analyzing+GitHub+Stats..." />
-</p>
+### > analyzing github...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrathameshRSH26&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
@@ -83,27 +45,14 @@ $ boot prathamesh-os
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Establishing+Connection..." />
-</p>
+### > establishing connection...
 
-```bash
-┌──(network㉿root)-[/connect]
-└─$ ./init_connection
-
-> LinkedIn : linkedin.com/in/prathameshshinde2604
-> Email    : prathameshshinde912@gmail.com
-
-[STATUS] AVAILABLE 🟢
-```
+* 🌐 LinkedIn: https://linkedin.com/in/prathameshshinde2604
+* 📬 Email: [prathameshshinde912@gmail.com](mailto:prathameshshinde912@gmail.com)
 
 ---
 
-```bash
-┌──(system㉿exit)-[~]
-└─$ shutdown -status
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=System+Stable...;Ready+to+Build+🚀" />
+</p>
 
-✔ All systems stable
-✔ No errors detected
-✔ Ready to build 🚀
-```
