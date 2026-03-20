@@ -1,0 +1,43 @@
+name: Generate Wave Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate Wave SVG
+        run: |
+          cat << "EOF" > wave.svg
+          <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100%" height="100%" fill="#0d1117"/>
+            
+            <path d="M0 100 Q 50 20 100 100 T 200 100 T 300 100 T 400 100 T 500 100 T 600 100 T 700 100 T 800 100"
+                  stroke="#f59e0b"
+                  stroke-width="3"
+                  fill="none">
+              <animate attributeName="d"
+                dur="4s"
+                repeatCount="indefinite"
+                values="
+                M0 100 Q 50 20 100 100 T 800 100;
+                M0 100 Q 50 180 100 100 T 800 100;
+                M0 100 Q 50 20 100 100 T 800 100
+                " />
+            </path>
+          </svg>
+          EOF
+
+      - name: Push to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add wave.svg
+          git commit -m "update wave graph" || echo "no changes"
+          git push
