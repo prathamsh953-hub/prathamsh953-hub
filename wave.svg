@@ -1,28 +1,17 @@
-name: Generate 3D Contribution
-
-on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
-
-jobs:
-build:
-runs-on: ubuntu-latest
-
-```
-steps:
-  - uses: actions/checkout@v3
-
-  - name: Generate 3D graph
-    uses: yoshi389111/github-profile-3d-contrib@main
-    with:
-      github_user_name: PrathameshRSH26
-
-  - name: Commit files
-    run: |
-      git config user.name "github-actions"
-      git config user.email "actions@github.com"
-      git add -A
-      git commit -m "update 3d graph" || echo "no changes"
-      git push
-```
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  
+  <path d="M0 100 Q 50 20 100 100 T 800 100"
+        stroke="#f59e0b"
+        stroke-width="3"
+        fill="none">
+    <animate attributeName="d"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+      M0 100 Q 50 20 100 100 T 800 100;
+      M0 100 Q 50 180 100 100 T 800 100;
+      M0 100 Q 50 20 100 100 T 800 100
+      " />
+  </path>
+</svg>
